@@ -45,10 +45,10 @@
 [Github](https://github.com)
 
 **Table**
-|Name|branch|College|
-|----|------|-------|    
-|abc|cse|vrsec|   
-|XYZ|bbm|sid|   
+Name|branch|College
+----|------|-------   
+abc|cse|vrsec   
+XYZ|bbm|sid   
 
 **Code**  
 ```
