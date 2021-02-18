@@ -44,7 +44,7 @@
 **Link**
 [Github](https://github.com)
 
-**Table**
+**Tabless**
 Name|branch|College
 ----|------|-------   
 abc|cse|vrsec   
