@@ -32,7 +32,7 @@
 3. Git hub    
 4. Cloning      
 5. Contribute     
-   a. clone     
+   a. clone    
    b.fork   
    c. create new branch  
    d. push with new branch
